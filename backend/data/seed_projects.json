@@ -1,0 +1,82 @@
+[
+ {
+  "id": "in_1",
+  "title": "Face Attendance Tracker",
+  "description": "Marks student attendance from webcam face recognition and exports class reports."
+ },
+ {
+  "id": "in_2",
+  "title": "QR Code Attendance App",
+  "description": "Students scan a rotating QR code shown by the teacher to mark attendance from their phones."
+ },
+ {
+  "id": "in_3",
+  "title": "Expense Tracker with OCR",
+  "description": "Scans receipts with OCR and logs expenses into categories with monthly spending charts."
+ },
+ {
+  "id": "in_4",
+  "title": "Budget Buddy Chatbot",
+  "description": "A chatbot that answers questions about your spending and suggests savings goals."
+ },
+ {
+  "id": "in_5",
+  "title": "Resume ATS Checker",
+  "description": "Scores resumes against job descriptions and lists missing keywords."
+ },
+ {
+  "id": "in_6",
+  "title": "Interview Prep Bot",
+  "description": "Chatbot that asks mock interview questions and gives feedback on answers."
+ },
+ {
+  "id": "in_7",
+  "title": "Campus Event Portal",
+  "description": "Web portal for clubs to publish events and students to register and get reminders."
+ },
+ {
+  "id": "in_8",
+  "title": "Library Management System",
+  "description": "Issue, return and fine tracking for the college library with search by title."
+ },
+ {
+  "id": "in_9",
+  "title": "Lost and Found Board",
+  "description": "Students post lost or found items with photos and get matched by description."
+ },
+ {
+  "id": "in_10",
+  "title": "Plant Disease Detector",
+  "description": "Classifies crop leaf photos with a CNN and suggests treatments for farmers."
+ },
+ {
+  "id": "in_11",
+  "title": "Crop Price Predictor",
+  "description": "Predicts mandi crop prices using historical data and weather features."
+ },
+ {
+  "id": "in_12",
+  "title": "College FAQ Chatbot",
+  "description": "Answers admission, fee and timetable questions using a retrieval chatbot."
+ },
+ {
+  "id": "in_13",
+  "title": "Mental Health Check-in Bot",
+  "description": "Daily mood check-in chatbot that suggests breathing exercises and campus counsellors."
+ },
+ {
+  "id": "in_14",
+  "title": "Study Planner",
+  "description": "Builds a personalised weekly study timetable from exam dates and subject difficulty."
+ },
+ {
+  "id": "in_15",
+  "title": "Doubt Solving Forum",
+  "description": "Q&A forum where juniors post doubts and seniors answer, with upvotes."
+ },
+ {
+  "id": "in_16",
+  "title": "Smart Parking Finder",
+  "description": "Shows free parking slots on campus using sensor data and a live map."
+ }
+]
